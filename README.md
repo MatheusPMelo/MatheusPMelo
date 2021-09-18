@@ -17,27 +17,35 @@
   <img align="center" alt="Rafa-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="MPM-PHP" height="40" width="50" src="https://www.php.net/images/logos/new-php-logo.svg">
   <img align="center" alt="MPM-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="MPM-bash" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
+
  </div>
  
  ##
  
- ### Softwares Skill:
+ ### Softwares Skills:
  <div style="display: inline_block"><br>
   <img align="center" alt="MPM-xd" height="40" whidth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg">
+  <img align="center" alt="MPM-figma" height="40" whidth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="MPM-gimp" height="40" whidth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
  </div>
  
  ##
  
- ### Others Skiil:
+ ### Others Skiils:
  <div style="display: inline_block"><br>
   <img align="center" alt="MPM-Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="MPM-github" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img align="center" alt="MPM-linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="center" alt="MPM-vscode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="MPM-vscode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
 </div>
   
   ##
   
   ### Social
  <div>
-   <a href="https://www.instagram.com/mpm_744/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:matheusprestesdmelo744@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-melo-059647157/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://www.instagram.com/mpm_744/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
+  <a href = "mailto:matheusprestesdmelo744@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail.png"/></a>
+  <a href="https://www.linkedin.com/in/matheus-melo-059647157/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a> 
  </div>
