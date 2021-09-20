@@ -1,7 +1,8 @@
 ## Hi i'm Matheus Prestes de Melo
 
-### Studying 2nd semester of science
+- Studying 2nd semester of computer science
 
+##
 
  <div>
   <a href="https://github.com/MatheusPMelo">
