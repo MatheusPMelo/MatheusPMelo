@@ -1,4 +1,6 @@
-### Hi i'm Matheus Prestes de Melo
+## Hi i'm Matheus Prestes de Melo
+
+### Studying 2nd semester of science
 
 
  <div>
