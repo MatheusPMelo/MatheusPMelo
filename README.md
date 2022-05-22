@@ -16,7 +16,8 @@
   <img align="center" alt="MPM-PHP" height="40" width="50" src="https://www.php.net/images/logos/new-php-logo.svg">
   <img align="center" alt="MPM-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="MPM-bash" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
-  <img align="center" alt="MPM-bash" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" />
+  <img align="center" alt="MPM-vue" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" />
+  <img align="center" alt="MPM-laravel" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" />
   
  </div>
  
