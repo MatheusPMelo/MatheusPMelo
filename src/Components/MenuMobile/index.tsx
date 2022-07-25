@@ -10,7 +10,7 @@ const MenuMobile: React.FC = () => {
   return (
     <ContainerMenuMobile>
       <Container maxWidth="md">
-        <Grid container spacing={2}>
+        <Grid container spacing={2} alignItems='center' justifyContent='center'>
           <NavMenu />
         </Grid>
       </Container>

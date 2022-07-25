@@ -17,6 +17,6 @@ export default {
 
         switchShadow: "#000",
 
-        title: "#000"
+        title: '#3e3e3e'
     }
 }

@@ -7,6 +7,7 @@ import dark from "./Styles/themes/dark"
 import light from "./Styles/themes/light"
 import usePersistedState from "./Utils/usePersistedState"
 import MenuMobile from "./Components/MenuMobile"
+import Projects from "./Components/Projects"
 
 function App() {
   const [theme, setTheme] = usePersistedState('theme', dark)
@@ -24,9 +25,7 @@ function App() {
             toggleTheme={toggleTheme}
           />
           <Hero />
-          <Hero />
-          <Hero />
-          <Hero />
+          <Projects />
           {window.innerWidth <= 500 ? (<MenuMobile />):('')}
         </ThemeProvider>
     </div>
