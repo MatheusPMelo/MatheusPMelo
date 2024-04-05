@@ -8,7 +8,7 @@
 
 <h2 align="left">About me</h2>
 <p align="left">📚 - student of analysis and systems development</p>
-<p align="left">💼 - Full-stack developer at Santins</p>
+<p align="left">💼 - Full-stack developer at Verbin</p>
 <p align="left">🌐 - Open source lover</p>
 
 ###
